@@ -26,7 +26,7 @@ export async function POST(req: Request) {
         secure: true,
         auth: {
           user: "tempacc6956@gmail.com",
-          pass: "mwqq jbnb yedd xfhl",
+          pass: "abcd abcd abcd abcd",
         },
       });
 
