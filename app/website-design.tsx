@@ -8,11 +8,11 @@ const WebsiteDesign = () => {
     <div className='text-white'>
          <div className="p-4 mx-auto relative z-10 w-full pt-14 md:pt-32 px-2">
             <div className="text-4xl md:text-7xl text-center bg-clip-text text-transparent bg-gradient-to-b from-purple-500 to bg-sky-200 bg-opacity-50">
-                Website Design <br /> that works
+                Website Design that <br /> help your work
             </div>
 
             <p className="mt-4 text-lg font-normal text-neutral-300 max-w-lg text-center mx-auto px-4">
-                Custom tailored solutions for your business. We help you create a unique brand identity and grow your business.
+            Empowering your online presence with purposeful design. Our expert team crafts tailored solutions that enhance your brand identity and drive business growth.
             </p>
 
             <div className="grid grid-cols-2 md:grid-cols-5 gap-2 md:gap-4 pt-10 md:p-20">

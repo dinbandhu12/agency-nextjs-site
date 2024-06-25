@@ -49,12 +49,13 @@ export default function Home() {
 
       <div className="p-4 mx-auto relative z-10 w-full pt-10 md:pt-32 px-2">
         <div className="text-4xl pb-5 md:text-7xl px-6 text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to bg-neutral-400 bg-opacity-50">
-          Create grow and <br /> scale your business
+        {/* Crafting Success from UI/UX <br /> Website and Brand Identity */}
+        {/* Design Develop and <br /> Make your Business */}
+        Craft, Amplify, and <br /> Elevate Your Business
         </div>
 
-        <p className="mt-4 text-lg font-normal text-neutral-300 max-w-lg text-center mx-auto px-4">
-          Custom tailored solutions for your business. We help you create a
-          unique brand identity and grow your business.
+        <p className="mt-4 text-lg font-normal text-neutral-300 max-w-xl text-center mx-auto px-4">
+          Our agency website showcases our expertise in UI/UX design, complete website development, and brand identity. Explore our portfolio to witness our full website designs come to life!
         </p>
 
         <Link
