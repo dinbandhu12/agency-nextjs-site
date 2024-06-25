@@ -20,10 +20,10 @@ const DropDownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
         <Link href="/pricing" className='text-black text-2xl'>
           Pricing
         </Link>
-        <Link href="/pricing" className='text-black text-2xl'>
+        <Link href="/contact" className='text-black text-2xl'>
           Contact
         </Link>
-        <Link href="/pricing" className='text-black text-2xl'>
+        <Link href="/book" className='text-black text-2xl'>
           Book a call
         </Link>
         
